@@ -1,0 +1,9 @@
+asdffdsasdfafsdfads
+dghgdhdgdhghgd
+fuck this
+http://stefan.buettcher.org/cs/conn_closed.html
+https://www.softlab.ntua.gr/facilities/documentation/unix/unix-socket-faq/unix-socket-faq-2.html
+https://docs.oracle.com/cd/E19683-01/806-6546/appmech3-36724/index.html
+https://notes.shichao.io/unp/ch6/
+https://stackoverflow.com/questions/33156689/accessing-x-number-of-same-structs-in-another-struct
+http://man7.org/linux/man-pages/man2/timerfd_create.2.html
